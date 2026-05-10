@@ -1,13 +1,22 @@
 
-If you wanna know about me 😀 :
+
+𝗜𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝗻𝗮 𝗸𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 😀 :
 
 🥇 I am an engineering student doing my bachelor's in computer science at Chennai Institute of Technology,Chennai.
+
 ☀️ I'm strongly enthralled by the AI ,automation ,workflows and Machine Learning that made me enter my machine learning journey. 
+
 🥇 I'm currently learning and building my foundation in machine learning .
+
 ☀️ I am also learning DSA and in the mid level  ,not just counting on the number of problems but the number of patterns I'm getting. 
-☀️ I'm always open to seeking guidance from professionals, also someone who's in the stage of building something that's worth . I'm also open to open source contributions like GSSoC and many other open source contribution platforms .
+
+☀️ I'm always open to seeking guidance from professionals, also someone who's in the stage of building something that's worth .
+
+🥇 I'm also contributed and contributing on open source contributions like GSSoC and many other open source contribution platforms .
+
 🎤 I am also open to connect with like-minded people who wants to grow beyond their horizon !
-🥇And finally, one thing about me that stays forever is I'm always on for learning, building, and growing together with people out there. 
+
+🥇 And finally, one thing about me that stays forever is I'm always on for learning, building, and growing together with people out there. 
 
 
 ## 🌐 Socials:
