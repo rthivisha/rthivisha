@@ -8,6 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+2nd+Year+Student;PyTorch+%7C+LangChain+%7C+Hugging+Face;RAG+%7C+Vector+Databases+%7C+Docker)
 
 ---
+---
 
 <div align="center">
 
@@ -31,29 +32,29 @@
 ---
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 ---
 
-**Languages**
+**💻 Languages**
 
 ![Skills](https://skillicons.dev/icons?i=python,java,cpp,js)
 
-**AI / ML**
+**🤖 AI / ML**
 
 ![Skills](https://skillicons.dev/icons?i=pytorch,huggingface)
 
-**Backend & APIs**
+**⚙️ Backend & APIs**
 
 ![Skills](https://skillicons.dev/icons?i=fastapi,nodejs)
 
-**Databases & Vector Stores**
+**🗄️ Databases & Vector Stores**
 
 ![Skills](https://skillicons.dev/icons?i=mongodb,postgres)
----
 
-**Tools & DevOps**
+**🔧 Tools & DevOps**
 
 ![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode)
+
 
 ---
 ---
