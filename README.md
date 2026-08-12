@@ -21,6 +21,7 @@
 
 ▹ Deep focus on agentic AI — constantly learning and applying new concepts to build systems that hold up, not just impress
 
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rthivisha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-thivisha)
