@@ -11,15 +11,15 @@
 
 <div align="center">
 
-▹ B.Tech CSE (2nd Year) student — building applied AI systems from the ground up
+🔹 B.Tech CSE (2nd Year) student — building applied AI systems from the ground up
 
-▹ Engineering multi-agent orchestration systems designed for real-world impact, not just demos
+🔹 Engineering multi-agent orchestration systems designed for real-world impact, not just demos
 
-▹ Obsessed with solving problems that actually reduce daily workflow friction — lean, purposeful builds over hype-chasing
+🔹 Obsessed with solving problems that actually reduce daily workflow friction — lean, purposeful builds over hype-chasing
 
-▹ Hackathon Finalist — National Handloom Hackathon | National Biothon Hackathon — proven under real time and resource constraints
+🔹 Hackathon Finalist — National Handloom Hackathon | National Biothon Hackathon — proven under real time and resource constraints
 
-▹ Deep focus on agentic AI — constantly learning and applying new concepts to build systems that hold up, not just impress
+🔹 Deep focus on agentic AI — constantly learning and applying new concepts to build systems that hold up, not just impress
 
 ---
 
