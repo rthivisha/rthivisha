@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060A17,100:4DEEEA&height=200&section=header&text=R%20Thivisha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Developer%20%7C%202nd%20Year%20CSE%20Student&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:110038,100:00D2FF&height=200&section=header&text=R%20Thivisha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Developer%20%7C%202nd%20Year%20CSE%20Student&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 # About me
 
