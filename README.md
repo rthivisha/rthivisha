@@ -11,15 +11,16 @@
 
 <div align="center">
 
-📚 Currently pursuing B.Tech CSE (2nd Year) — full-time student
+▹ B.Tech CSE (2nd Year) student — building applied AI systems from the ground up
 
-🔹 Contributing to multi-agent orchestration systems built for real-world impact
+▹ Engineering multi-agent orchestration systems designed for real-world impact, not just demos
 
-⚡ Focused on solving problems that reduce everyday workflow friction — building lean with what's available, not chasing hype tools
+▹ Obsessed with solving problems that actually reduce daily workflow friction — lean, purposeful builds over hype-chasing
 
-🏆 Hackathon Finalist — National Handloom Hackathon | National Biothon Hackathon
+▹ Hackathon Finalist — National Handloom Hackathon | National Biothon Hackathon — proven under real time and resource constraints
 
-🎯 Strong focus on applied AI systems — not just model demos — learning agentic AI concepts and applying them to stand out
+▹ Deep focus on agentic AI — constantly learning and applying new concepts to build systems that hold up, not just impress
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rthivisha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-thivisha)
