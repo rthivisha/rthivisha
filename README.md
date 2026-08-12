@@ -30,5 +30,29 @@
 </div>
 ---
 
+## Tech Stack
+---
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,js)
+
+**AI / ML**
+
+![Skills](https://skillicons.dev/icons?i=pytorch,huggingface)
+
+**Backend & APIs**
+
+![Skills](https://skillicons.dev/icons?i=fastapi,nodejs)
+
+**Databases & Vector Stores**
+
+![Skills](https://skillicons.dev/icons?i=mongodb,postgres)
+
+**Tools & DevOps**
+
+![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode)
+
+---
 
 </div>
