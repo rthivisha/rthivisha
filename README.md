@@ -8,16 +8,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+2nd+Year+Student;PyTorch+%7C+LangChain+%7C+Hugging+Face;RAG+%7C+Vector+Databases+%7C+Docker)
 
 ---
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rthivisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rthivisha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" width="38%" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -39,6 +29,7 @@
 
 </div>
 ---
+---
 
 ## Tech Stack
 ---
@@ -59,7 +50,14 @@
 
 ![Skills](https://skillicons.dev/icons?i=mongodb,postgres)
 ---
-## Contributions
+
+**Tools & DevOps**
+
+![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode)
+
+---
+---
+## 🐍 Contributions 🐍
 
 <div align="center">
 
@@ -68,15 +66,11 @@
   <img alt="github contribution snake animation" src="https://rthivisha.github.io/rthivisha/github-contribution-grid-snake.svg" />
 </picture>
 
+<br/>
+
+✨ Clean Code • Real Impact • Constant Growth ✨
+
 </div>
-
----
-
----
-
-**Tools & DevOps**
-
-![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode)
 
 ---
 
