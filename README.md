@@ -2,13 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0F4C75,100:00C9FF&height=200&section=header&text=R%20Thivisha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%202nd%20Year%20CSE%20Student&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
----
-
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 # About me
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+2nd+Year+Student;PyTorch+%7C+LangChain+%7C+Hugging+Face;RAG+%7C+Vector+Databases+%7C+Docker)
 
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 
 <div align="center">
 
@@ -30,7 +29,7 @@
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +55,7 @@
 
 
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 ## 🐍 Contributions 🐍
 
 <div align="center">
@@ -72,7 +71,7 @@
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 ## Let's Build Something
 ---
 
