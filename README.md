@@ -4,7 +4,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
 # About me
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+Engineering+%7C+2nd+Year+Student;PyTorch+%7C+LangChain+%7C+Hugging+Face;RAG+%7C+Vector+Databases+%7C+Docker)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+Muscle+knowdelge+%7C+2nd+Year+Student;PyTorch+%7C+LangChain+%7C+Hugging+Face;RAG+%7C+Vector+Databases+%7C+Docker)
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:00C9FF&height=3&section=header)
